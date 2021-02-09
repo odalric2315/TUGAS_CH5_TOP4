@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasCH5IntentApp</string>
+    <string name="move">Move</string>
+    <string name="share">Share</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_another_app">Welcome to Another App</string>
+</resources>
